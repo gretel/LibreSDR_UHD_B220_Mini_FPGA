@@ -32,3 +32,6 @@ baselines/
 
 # Upstream reference (embedded git repo)
 uhd/
+
+# Misc
+nohup.out
